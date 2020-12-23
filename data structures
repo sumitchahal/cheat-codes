@@ -1,8 +1,9 @@
 // finding small element in array 
   *min_element(a,a+n);
-  // star gives the 
-  
+  // star gives the value of elment
+
   PRIORITY QUEUE
   priority_queue<int> pq;//to store elements in decreasing order
   priority_queue<int,vector<int> , greater<int> > pq; // to store elements in increasing order
   
+ 
